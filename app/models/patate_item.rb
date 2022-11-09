@@ -1,0 +1,3 @@
+class PatateItem < ApplicationRecord
+
+end
