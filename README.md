@@ -32,10 +32,6 @@ ruby bin\rails server
 #### Response
    "6000.0"
 
-## Limitations connues
-- Plusieurs routes polluent le projet. En cause : action\_mailbox, conductor et active\_storage
-- Pas de contrôle sur la date passée en paramètre
-- Pas de gestion du statut HTTP
 
 ## Aide mémoire ruby et ruby on rails
 
